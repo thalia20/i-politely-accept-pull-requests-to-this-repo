@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# In a fashion inspired by @jakearchibald I shall even more :corn: :cool: all pull requests to this repo.
-=======
 # This is not a GitHub repo
->>>>>>> ruy/patch-1
 
 Good job, GitHub auto-generated readme.
 
