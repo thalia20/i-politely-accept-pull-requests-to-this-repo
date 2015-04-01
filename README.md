@@ -1,5 +1,5 @@
-# i-politely-accept-pull-requests-to-this-repo
+# I shall politely accept pull requests to this repo.
 
 Good job, GitHub auto-generated readme.
 
-:corn:
+P.S I'm a polite guy and I shall not rudely and childishly reject pull requests to the repo like my [friend](https://github.com/jakearchibald/I-rudely-reject-pull-requests-to-this-repo)
