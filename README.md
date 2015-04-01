@@ -1,4 +1,4 @@
-# In a fashion inspired by @jakearchibald I shall even more rudely deny all pull requests to this repo.
+# This is not a GitHub repo
 
 Good job, GitHub auto-generated readme.
 
