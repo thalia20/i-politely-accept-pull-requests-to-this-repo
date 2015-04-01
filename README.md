@@ -16,4 +16,4 @@
 
 >>>>>>
 
-![@samccone <3 @buob](http://media.funlol.com/content/img/fat-people-love-cookies.jpg)
+![@samccone <3 @buob](http://new4.fjcdn.com/comments/3646574+_4d2bb0b43dd9e1eb802a4f06d546ebb3.jpg)
