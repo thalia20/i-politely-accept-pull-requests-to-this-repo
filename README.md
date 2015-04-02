@@ -1,19 +1,6 @@
-<<<< 
-```patch
-- # This is not a GitHub repo
-```
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>. <a href="https://twitter.com/jaffathecake">@jaffathecake</a> it is ok, your negativity is being reversed by <a href="https://twitter.com/stephenplusplus">@stephenplusplus</a> &#10;&#10;<a href="https://t.co/kp9kZtU4Rr">https://t.co/kp9kZtU4Rr</a></p>&mdash; Sam Saccone (@samccone) <a href="https://twitter.com/samccone/status/583295853823160320">April 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-```patch
-+ Good job, GitHub auto-generated readme.
+![](![download 3](https://cloud.githubusercontent.com/assets/883126/6951690/1cb89078-d88b-11e4-9647-564397c468bb.png)
 
-+ P.S I'm a real :smile: dude and I shall :horse: and :penguin: :corn: pull requests to the repo like my [friend](https://github.com/jakearchibald/I-rudely-reject-pull-requests-to-this-repo)
-```
-========
-
-```clj
-(println (str "wow" "such" "repo"))
-```
-
->>>>>>
-
-![@samccone <3 @buob](http://new4.fjcdn.com/comments/3646574+_4d2bb0b43dd9e1eb802a4f06d546ebb3.jpg)
+:smile: Hello
