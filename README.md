@@ -4,3 +4,17 @@
 ![](![download 3](https://cloud.githubusercontent.com/assets/883126/6951690/1cb89078-d88b-11e4-9647-564397c468bb.png)
 
 :smile: Hello :clap:
+
+```
+WOULDN'T YOU PREFER A GOOD GAME OF CHESS?
+
+8	♜	♞	♝	♛	♚	♝	♞	♜
+7	♟	♟	♟	♟	♟	♟	♟	♟
+6								
+5								
+4								
+3			 					
+2	♙	♙	♙	♙	♙	♙	♙	♙
+1	♖	♘	♗	♕	♔	♗	♘	♖
+    a b c d e f g h
+```
