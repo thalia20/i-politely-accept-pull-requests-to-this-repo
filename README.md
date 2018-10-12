@@ -8,9 +8,9 @@
 ```
 WOULDN'T YOU PREFER A GOOD GAME OF CHESS?
 
-8  ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜
+8  ♜     ♝  ♛  ♚  ♝  ♞  ♜
 7  ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟
-6                        
+6        ♞                
 5                        
 4                    ♙   
 3                        
